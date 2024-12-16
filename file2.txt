@@ -1,0 +1,2 @@
+Machine learning, a subfield of artificial intelligence, applies statistical methods to enable computers to learn from data. 
+It is used across multiple industries, such as healthcare and finance, to enhance decision-making and task automation.

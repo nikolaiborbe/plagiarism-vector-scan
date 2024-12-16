@@ -1,0 +1,2 @@
+Machine learning is a field of artificial intelligence that uses statistical techniques to give computer systems the ability to learn from data without being explicitly programmed.
+This concept is widely applied in a variety of fields, from healthcare to finance, to improve decision-making and automate tasks.
