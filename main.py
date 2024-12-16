@@ -29,4 +29,10 @@ def main(file1, file2):
 
     return score
 
-    
+print(main(open("file1.txt").read(), open("file2.txt").read())) # output: 0.6077897411180689
+print(main(open("big_file1.txt").read(), open("big_file2.txt").read()))  # output: 0.862250153845581
+# the score for the big files seem high, but with large texts, 
+# the program behaves more like a language similarity scanner
+# rather than a precise plagiarism detector because of the sheer volume of data.
+
+# also cool that the runtime is < 1s. 
